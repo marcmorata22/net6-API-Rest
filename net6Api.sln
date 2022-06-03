@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net6Api", "net6Api\net6Api.csproj", "{6FC2BA52-B7A3-4913-A7C1-96FE491F41EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC2BA52-B7A3-4913-A7C1-96FE491F41EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC2BA52-B7A3-4913-A7C1-96FE491F41EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC2BA52-B7A3-4913-A7C1-96FE491F41EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC2BA52-B7A3-4913-A7C1-96FE491F41EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6491F98-568D-4095-A050-D7726B1DE483}
+	EndGlobalSection
+EndGlobal
