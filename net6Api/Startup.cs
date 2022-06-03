@@ -26,6 +26,7 @@ namespace net6Api
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+
             if (env.IsDevelopment())
             {
                 app.UseSwagger();
